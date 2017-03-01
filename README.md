@@ -4,6 +4,7 @@
 This is the server project
 
 To use the app:
+
 1. Go [here](http://54.236.242.146). Or [54.236.242.146](http://54.236.242.146)
 2. SSH grader@54.236.242.146, port 2200
 3. List of software installed from `pip freeze`
