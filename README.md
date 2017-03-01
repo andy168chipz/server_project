@@ -19,9 +19,9 @@ To use the app:
     - virtualenv==15.1.0
     - Werkzeug==0.11.15
 4. Additional software
-- Python
-- Apache2
-- Postgresql
+    - Python
+    - Apache2
+    - Postgresql
 
 5. Some links that helped me through setting up Flask. https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps
 stackoverflow.com/
